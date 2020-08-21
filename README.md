@@ -1,6 +1,4 @@
-
-[![Build Status](https://dev.azure.com/aseefa/p1/_apis/build/status/aseefahmed.pipelines-java?branchName=master)]
-
+[![Build Status](https://dev.azure.com/aseefa/p1/_apis/build/status/aseefahmed.pipelines-java?branchName=master)](https://dev.azure.com/aseefa/p1/_build/latest?definitionId=8&branchName=master)
 
 # Contributing
 
